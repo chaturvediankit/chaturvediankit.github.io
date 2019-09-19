@@ -1,11 +1,11 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Resume",
+    "name": "chaturvediankit",
     "version": "5.2.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Resume is a one page HTML source.",
     "keywords": [
         "css",
         "sass",
@@ -14,22 +14,18 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "homepage": "https://chaturvediankit.github.io",
+    "license": "Open Source",
+    "author": "Ankit Chaturvedi",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Ankit Chaturvedi (https://chaturvediankit.github.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/chaturvediankit/chaturvediankit.github.io"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "5.9.0",
+        "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
         "jquery": "3.4.1",
         "jquery.easing": "^1.4.1"
